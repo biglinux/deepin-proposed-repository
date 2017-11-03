@@ -1,0 +1,12 @@
+Package: deepin-proposed-repository
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:32
+Description: Adds Deepin's proposed repository, they are test packages and they can run into problems and download packages is slow
+
+
+
